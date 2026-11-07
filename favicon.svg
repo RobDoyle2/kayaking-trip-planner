@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e88c8"/>
+      <stop offset="1" stop-color="#0b2f5b"/>
+    </linearGradient>
+  </defs>
+  <clipPath id="r"><rect width="64" height="64" rx="15"/></clipPath>
+  <g clip-path="url(#r)">
+  <rect width="64" height="64" fill="url(#sea)"/>
+  <circle cx="48" cy="15" r="6.5" fill="#ffd23f"/>
+  <path d="M-2 46c8-7 14 7 22 0s14 7 22 0 14 7 22 0v22H-2z" fill="#0b2f5b" opacity=".55"/>
+  <path d="M5 38c13 11 41 11 54 0-14 4-40 4-54 0z" fill="#ffb000"/>
+  <path d="M6 37.2c14 4 38 4 52 0 1 .8 1.700 1 1.800 1.100C46 49 18 49 4.200 38.300c.4-.5 1-1 1.800-1.100z" fill="#ffd23f"/>
+  <circle cx="32" cy="22" r="6.2" fill="#ffe2bf"/>
+  <path d="M26 21c0-6 12-6 12 0z" fill="#e8442e"/>
+  <path d="M29.500 24.500q2.500 2.200 5 0" fill="none" stroke="#a5532c" stroke-width="1.100" stroke-linecap="round"/>
+  <path d="M27 31c0-4 10-4 10 0l1 8H26z" fill="#e8442e"/>
+  <path d="M12 27l40 15" stroke="#f4f7fb" stroke-width="2.6" stroke-linecap="round"/>
+  <ellipse cx="11" cy="26.500" rx="5.200" ry="2.600" transform="rotate(21 11 26.500)" fill="#f4f7fb"/>
+  <ellipse cx="53" cy="42.500" rx="5.200" ry="2.600" transform="rotate(21 53 42.500)" fill="#f4f7fb"/>
+  <path d="M2 52c8-6 14 6 22 0s14 6 22 0 14 6 20 1v11H2z" fill="#f4f7fb"/>
+  </g>
+</svg>
